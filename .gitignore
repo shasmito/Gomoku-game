@@ -1,0 +1,6 @@
+/.vscode/*
+/build/*
+/dist/*
+/main.spec
+/__pycache__/*
+/Settings/__pycache__/*
