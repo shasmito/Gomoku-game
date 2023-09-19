@@ -13,5 +13,5 @@
 - If none of the above moves are available, the AI will use the ALPHA-BETA PRUNING algorithm to calculate its next move.
 
 ## Screenshots:
-![Screenshot_gomoku_01.png](/Screenshot_gomoku_01.png)
+![Screenshot (185)](https://github.com/shasmito/Gomoku-game/assets/59387756/0308575b-3bbe-424f-8fd0-3f3bc86c4652)
 # Gomoku-game
